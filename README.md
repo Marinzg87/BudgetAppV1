@@ -9,7 +9,11 @@ Steps:
 - go to next task.
 
 ## Breakdown requirements
-- [ ] First requirement 
+- [ ] Necessary modules:
+  - tkinter;
+  - sqlite3;
+  - datetime;
+  - os.
  
 
 ## To Do's
